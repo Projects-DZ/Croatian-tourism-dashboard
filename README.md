@@ -14,7 +14,7 @@ City & County view section highlights the counties with the most visitors and th
 Forecast view projects future arrivals and nights spent using a regression model based on key economic factors. Bed-places occupancy, flight arrivals in Croatia and household disposable income, real GDP per capita, total unemployment rate in EU, since more than 90% of visitors that come to Croatia are EU citizens.
 
 ### Project Steps: ###
-1. Download relevant data from Eurostat (https://ec.europa.eu/eurostat/) and Croatian Bureau of Statistics (https://web.dzs.hr/default_e.htm)
+1. Download relevant data from Eurostat and Croatian Bureau of Statistics
 2. Data validation and cleaning using Power Query
 3. Data visualization by using Power BI to create interactive dashboards
 4. Forecast future arrivals and nights spent using Regression model
